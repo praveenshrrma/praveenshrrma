@@ -25,7 +25,7 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
       <h3 align="center">Stitch & Sole Co.</h3>
         <br />
         <a target="_blank" href="https://github.com/praveenshrrma/Stitch-Sole-Co.-Ecommerce-Store">
-         <img src="images/secondd.gif" width="100%" alt="Travel App"/>
+         <img src="images/second.gif" width="100%" alt="Travel App"/>
        
    </a>
         <br />
