@@ -24,7 +24,7 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Stitch & Sole Co.</h3>
         <br />
-        <a target="_blank" href="https://shawncharles.com/travelara">
+        <a target="_blank" href="https://github.com/praveenshrrma/Stitch-Sole-Co.-Ecommerce-Store">
          <img src="images/secondd.gif" width="100%" alt="Travel App"/>
        
    </a>
