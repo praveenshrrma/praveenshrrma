@@ -1,5 +1,5 @@
 
-![black](https://github.com/user-attachments/assets/22aacff1-0117-4cd0-ae7a-ec2f28b292a0)
+![black](https://github.com/user-attachments/assets/5e29bb7f-e9da-4c2b-9add-6d8eda5dc27c)
 
 <p align="center">
   <a href="https://praveensharrma.netlify.app/" target="_blank">
