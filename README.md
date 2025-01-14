@@ -34,9 +34,6 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
   <a href="https://github.com/praveenshrrma/Stitch-Sole-Co.-Ecommerce-Store" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="\https://shawncharles.com/travelara" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
       </p>
         <p>Stitch & Sole Co. is a full-stack e-commerce web application using React, Node.js, and Stripe for payment processing, offering features such as secure user authentication, product management, cart functionality, and dynamic checkout.</p>
     </td>
