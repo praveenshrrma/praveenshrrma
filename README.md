@@ -73,19 +73,19 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
       <h3 align="center">LAMA AI Chatbot App</h3>
         <br />
         <a target="_blank" href="https://github.com/praveenshrrma/LAMA-AI-Chatbot-App">
-          <img src="images/lama.gif" width="100%" alt="Matching Cards"/>
+          <img src="images/lama.gif" width="100%" />
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+  <a href="https://github.com/praveenshrrma/LAMA-AI-Chatbot-App" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://poke-matchcards.netlify.app" target="_blank">
+  <a href="https://github.com/praveenshrrma/LAMA-AI-Chatbot-App" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+        <p>This is a full-stack ChatGPT-like application, created to build an interactive and intelligent chatbot capable of real-time conversations, providing insightful responses to user queries.</p>
     </td>
   </tr>
 </table>
