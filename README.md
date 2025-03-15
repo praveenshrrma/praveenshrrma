@@ -4,16 +4,27 @@
 
 
 <p align="center">
-  <a href="https://praveensharrma.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23212121.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/praveenshrrma/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://praveensharrma.netlify.app/Resume_PraveenSharrma.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-%23FF0000.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://praveensharrma.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Portfolio-%23212121.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/praveenshrrma/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://praveensharrma.netlify.app/Resume_PraveenSharrma.pdf" target="_blank">
+          <img src="https://img.shields.io/badge/Resume-%23FF0000.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
+
 
 
 
