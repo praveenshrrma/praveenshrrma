@@ -25,7 +25,7 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
       <h3 align="center">Stitch & Sole Co.</h3>
         <br />
         <a target="_blank" href="https://github.com/praveenshrrma/Stitch-Sole-Co.-Ecommerce-Store">
-         <img src="images/second.gif" width="100%" alt="Travel App"/>
+         <img src="images/second.gif" width="100%"/>
        
    </a>
         <br />
@@ -41,7 +41,7 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
       <h3 align="center">SahandEstate Real Estate</h3>
         <br />
       <a target="_blank" href="https://github.com/praveenshrrma/SahandEstate-Real-Estate-Platform">
-            <img src="images/gif.gif" width="100%"  alt="Rigley 2"/>
+            <img src="images/gif.gif" width="100%"/>
         </a>
         <br />
         <p align="center">
@@ -56,10 +56,10 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ShawnCharles.com</h3>
+      <h3 align="center">OrbitJobs Job Board</h3>
       <br />
-        <a target="_blank" href="https://shawncharles.com">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+        <a target="_blank" href="https://github.com/praveenshrrma/OrbitJobs-Job-Board-Website">
+          <img src="images/1.gif" width="100%"/>
         </a>
       <br />
         <p align="center">
