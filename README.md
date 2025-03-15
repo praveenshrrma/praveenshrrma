@@ -2,25 +2,20 @@
   <img src="images/black.jpg" alt="Black Banner" />
 </p>
 
-
 <p align="center">
   <table>
     <tr>
-      <td align="center" width="140" height="50" bgcolor="#2C2F33">
+      <td align="center" width="160" height="60" bgcolor="#2C2F33">
         <a href="https://praveensharrma.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/Portfolio-%232C2F33.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
         </a>
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="140" height="50" bgcolor="#0A66C2">
+      <td align="center" width="160" height="60" bgcolor="#0A66C2">
         <a href="https://www.linkedin.com/in/praveenshrrma/" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="LinkedIn" />
         </a>
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="140" height="50" bgcolor="#FF0000">
+      <td align="center" width="160" height="60" bgcolor="#FF0000">
         <a href="https://praveensharrma.netlify.app/Resume_PraveenSharrma.pdf" target="_blank">
           <img src="https://img.shields.io/badge/Resume-%23FF0000.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Resume" />
         </a>
@@ -28,6 +23,7 @@
     </tr>
   </table>
 </p>
+
 
 
 
