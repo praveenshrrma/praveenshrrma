@@ -7,17 +7,14 @@
   <a href="https://praveensharrma.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23212121.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
   </a>
-</p>
-<p align="center">
   <a href="https://www.linkedin.com/in/praveenshrrma/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-<p align="center">
   <a href="https://praveensharrma.netlify.app/Resume_PraveenSharrma.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-%23FF0000.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
   </a>
 </p>
+
 
 
 Full-Stack Software Engineer, I am driven by a passion for leveraging technology to solve real-world problems and create meaningful, user-centric solutions.
