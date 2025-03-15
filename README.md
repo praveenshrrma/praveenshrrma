@@ -1,15 +1,13 @@
 
 <p align="center">
   <a href="https://praveensharrma.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Website-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/praveenshrrma/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://praveensharrma.netlify.app/Resume_PraveenSharrma.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-%23FF0000.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
   </a>
 </p>
 
