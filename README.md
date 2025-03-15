@@ -1,17 +1,18 @@
 
 <p align="center">
   <a href="https://praveensharrma.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23212121.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000&color=333333" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-%23212121.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/praveenshrrma/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%23212121.svg?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=000000&color=333333" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://praveensharrma.netlify.app/Resume_PraveenSharrma.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-%23212121.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=FF0000&labelColor=000000&color=333333" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-%23212121.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=FF0000" alt="Resume" />
   </a>
 </p>
+
 
 
 
