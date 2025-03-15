@@ -1,4 +1,7 @@
-<img src="black.jpg" width="100%">
+<p align="center">
+  <img src="black.jpg" alt="Black Banner" />
+</p>
+
 
 <p align="center">
   <a href="https://praveensharrma.netlify.app/" target="_blank">
