@@ -70,7 +70,7 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
         <p>An interactive and fully responsive Job Board Platform that simplifies recruitment. Businesses can efficiently create and manage job postings, while candidates can easily reach out to employers through email or phone.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Matching Cards</h3>
+      <h3 align="center">LAMA AI Chatbot App</h3>
         <br />
         <a target="_blank" href="https://poke-matchcards.netlify.app/">
           <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
