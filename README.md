@@ -1,17 +1,18 @@
 
 <p align="center">
   <a href="https://praveensharrma.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" style="border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: all 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/praveenshrrma/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: all 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://praveensharrma.netlify.app/Resume_PraveenSharrma.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-%23FF0000.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-%23FF0000.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" style="border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: all 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </p>
+
 
 Full-Stack Software Engineer, I am driven by a passion for leveraging technology to solve real-world problems and create meaningful, user-centric solutions.
 Visit [my website](https://praveensharrma.netlify.app/) for more information!
