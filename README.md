@@ -5,13 +5,14 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/praveenshrrma/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0056b3&color=0077b5" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%23212121.svg?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=000000&color=333333" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://praveensharrma.netlify.app/Resume_PraveenSharrma.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-%23D32F2F.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&labelColor=B71C1C&color=E53935" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-%23212121.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=FF0000&labelColor=000000&color=333333" alt="Resume" />
   </a>
 </p>
+
 
 
 
