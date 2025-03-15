@@ -9,9 +9,10 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://praveensharrma.netlify.app/Resume_PraveenSharrma.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-%23212121.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=FF0000" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-%23FF0000.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
   </a>
 </p>
+
 
 
 
