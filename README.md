@@ -1,3 +1,5 @@
+<img src="black.jpg" width="100%">
+
 <p align="center">
   <a href="https://praveensharrma.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23212121.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
