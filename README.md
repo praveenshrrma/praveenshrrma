@@ -13,7 +13,7 @@
   </a>
 </p>
 
-Previously a 100Devs Full-Stack Software Engineer, I am driven by a passion for leveraging technology to solve real-world problems and create meaningful, user-centric solutions.
+Full-Stack Software Engineer, I am driven by a passion for leveraging technology to solve real-world problems and create meaningful, user-centric solutions.
 Visit [my website](https://praveensharrma.netlify.app/) for more information!
 
 
