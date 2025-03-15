@@ -72,7 +72,7 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">LAMA AI Chatbot App</h3>
         <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
+        <a target="_blank" href="https://github.com/praveenshrrma/LAMA-AI-Chatbot-App">
           <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
         </a>
         <br />
