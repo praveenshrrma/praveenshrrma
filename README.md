@@ -6,24 +6,25 @@
 <p align="center">
   <table>
     <tr>
-      <td align="center" width="160" height="60" bgcolor="#212121">
+      <td align="center" width="140" height="50" bgcolor="#212121">
         <a href="https://praveensharrma.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-%23212121.svg?style=for-the-badge&logo=react&logoColor=61DAFB" width="140" height="40" alt="Portfolio" />
+          <img src="https://img.shields.io/badge/Portfolio-%23212121.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
         </a>
       </td>
-      <td align="center" width="160" height="60" bgcolor="#0A66C2">
+      <td align="center" width="140" height="50" bgcolor="#0A66C2">
         <a href="https://www.linkedin.com/in/praveenshrrma/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="140" height="40" alt="LinkedIn" />
+          <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&logo=react&logoColor=61DAFB" alt="LinkedIn" />
         </a>
       </td>
-      <td align="center" width="160" height="60" bgcolor="#FF0000">
+      <td align="center" width="140" height="50" bgcolor="#FF0000">
         <a href="https://praveensharrma.netlify.app/Resume_PraveenSharrma.pdf" target="_blank">
-          <img src="https://img.shields.io/badge/Resume-%23FF0000.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" width="140" height="40" alt="Resume" />
+          <img src="https://img.shields.io/badge/Resume-%23FF0000.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Resume" />
         </a>
       </td>
     </tr>
   </table>
 </p>
+
 
 
 
