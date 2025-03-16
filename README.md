@@ -130,19 +130,18 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
 
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">IMAGINIFY AI SaaS</h3>
+      <h3 align="center"> Apple iPhone 15 Pro Website </h3>
       <br />
-        <a target="_blank" href="https://github.com/praveenshrrma/IMAGINIFY-AI-SaaS">
-          <img src="images/ai.gif" width="100%"/>
+        <a target="_blank" href="https://github.com/praveenshrrma/Iphone-15-Website">
+          <img src="images/apple.gif" width="100%"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/praveenshrrma/IMAGINIFY-AI-SaaS" target="_blank">
+  <a href="https://github.com/praveenshrrma/Iphone-15-Website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p>Full-stack AI image SaaS platform offering cutting-edge image processing solutions. It features a robust payment system, advanced image search capabilities, and a suite of AI-powered tools, including image restoration, recoloring, object removal, generative filling, and 
-           background removal.</p>
+        <p>The website showcases the Apple iPhone 15 Pro, combining the power of GSAP animations with the advanced 3D capabilities of Three.js.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Zentree Award Winning Website</h3>
@@ -161,6 +160,7 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
            user experience.</p>
     </td>
   </tr>
+
 </table>
 
 
