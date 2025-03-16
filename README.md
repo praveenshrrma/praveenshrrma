@@ -125,6 +125,42 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
            user experience.</p>
     </td>
   </tr>
+
+
+
+     <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">IMAGINIFY AI SaaS</h3>
+      <br />
+        <a target="_blank" href="https://github.com/praveenshrrma/IMAGINIFY-AI-SaaS">
+          <img src="images/ai.gif" width="100%"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/praveenshrrma/IMAGINIFY-AI-SaaS" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p>Full-stack AI image SaaS platform offering cutting-edge image processing solutions. It features a robust payment system, advanced image search capabilities, and a suite of AI-powered tools, including image restoration, recoloring, object removal, generative filling, and 
+           background removal.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Zentree Award Winning Website</h3>
+        <br />
+        <a target="_blank" href="https://github.com/praveenshrrma/Zentree-award-winning-website">
+          <img src="images/zentree.gif" width="100%" />
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/praveenshrrma/Zentree-award-winning-website" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p>An award-winning animated website that became Site Of The Month. Featuring interactive scroll-based animations, sleek geometric transitions, and captivating video content, this platform offers an engaging and visually dynamic 
+           user experience.</p>
+    </td>
+  </tr>
 </table>
 
 
