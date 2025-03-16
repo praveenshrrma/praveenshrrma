@@ -57,6 +57,8 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
     </td>
   </tr>
   
+  
+  
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">OrbitJobs Job Board</h3>
@@ -88,20 +90,23 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
         <p>This is a full-stack ChatGPT-like application, created to build an interactive and intelligent chatbot capable of real-time conversations, providing insightful responses to user queries.</p>
     </td>
   </tr>
+  
+   
    <tr>
     <td width="50%" valign="top">
-      <h3 align="center">OrbitJobs Job Board</h3>
+      <h3 align="center">IMAGINIFY AI SaaS</h3>
       <br />
-        <a target="_blank" href="https://github.com/praveenshrrma/OrbitJobs-Job-Board-Website">
-          <img src="images/1.gif" width="100%"/>
+        <a target="_blank" href="https://github.com/praveenshrrma/IMAGINIFY-AI-SaaS">
+          <img src="images/ai.gif" width="100%"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/praveenshrrma/OrbitJobs-Job-Board-Website" target="_blank">
+  <a href="https://github.com/praveenshrrma/IMAGINIFY-AI-SaaS" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p>An interactive and fully responsive Job Board Platform that simplifies recruitment. Businesses can efficiently create and manage job postings, while candidates can easily reach out to employers through email or phone.</p>
+        <p>Full-stack AI image SaaS platform offering cutting-edge image processing solutions. It features a robust payment system, advanced image search capabilities, and a suite of AI-powered tools, including image restoration, recoloring, object removal, generative filling, and 
+           background removal.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">LAMA AI Chatbot App</h3>
