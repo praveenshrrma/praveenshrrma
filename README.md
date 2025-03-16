@@ -147,7 +147,7 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
       <h3 align="center">My Portfolio</h3>
         <br />
         <a target="_blank" href="https://github.com/praveenshrrma/My-Portfolio">
-          <img src="images/port.jpg" width="100%" />
+          <img src="images/port.gif" width="100%" />
         </a>
         <br />
         <p align="center">
