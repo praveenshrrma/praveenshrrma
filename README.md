@@ -128,7 +128,7 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
 
 
 
-     <tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">IMAGINIFY AI SaaS</h3>
       <br />
