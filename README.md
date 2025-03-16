@@ -144,20 +144,19 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
         <p>The website showcases the Apple iPhone 15 Pro, combining the power of GSAP animations with the advanced 3D capabilities of Three.js.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Zentree Award Winning Website</h3>
+      <h3 align="center">My Portfolio</h3>
         <br />
-        <a target="_blank" href="https://github.com/praveenshrrma/Zentree-award-winning-website">
+        <a target="_blank" href="https://github.com/praveenshrrma/My-Portfolio">
           <img src="images/zentree.gif" width="100%" />
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/praveenshrrma/Zentree-award-winning-website" target="_blank">
+  <a href="https://github.com/praveenshrrma/My-Portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p>An award-winning animated website that became Site Of The Month. Featuring interactive scroll-based animations, sleek geometric transitions, and captivating video content, this platform offers an engaging and visually dynamic 
-           user experience.</p>
+        <p>This portfolio showcases my diverse projects, including e-commerce and AI-powered apps, built with modern technologies like React, Tailwind CSS, GSAP, and Lenis, demonstrating my ability to create seamless, user-friendly, and visually engaging web experiences.</p>
     </td>
   </tr>
 
