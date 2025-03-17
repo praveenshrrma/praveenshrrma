@@ -208,17 +208,9 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
 ---
 
 
-## 📊 GitHub Stats
+## 📅 GitHub Contributions
 
-<div align="center">
+![GitHub Contributions](https://github.com/praveenshrrma/praveenshrrma/blob/main/github-contribution-grid-snake.svg)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=praveenshrrma&theme=radical&hide_border=true)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=praveenshrrma&theme=tokyo-night&hide_border=true)  
-
-| 💻 GitHub Stats | 📈 Most Used Languages |
-|---|---|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveenshrrma&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenshrrma&layout=compact&theme=radical&hide_border=true) |
-
-</div>
 
 
