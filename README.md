@@ -166,7 +166,9 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
 <h1 align="center">Technologies</h1>
 
 
-<p>
+## 🚀 Tech Stack
+
+<div align="center">
 
 [![HTML](https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -201,7 +203,8 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
 [![Backend](https://img.shields.io/badge/-Backend-%2324A148?style=for-the-badge)]()
 [![Full-stack](https://img.shields.io/badge/-Full--Stack-%23000000?style=for-the-badge)]()
 
-</p>
+</div>
+
 
 
 
