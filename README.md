@@ -208,9 +208,7 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
 ---
 
 
-## 📅 GitHub Contributions
 
-![GitHub Contributions](https://github.com/praveenshrrma/praveenshrrma/blob/main/github-contribution-grid-snake.svg)
 
 
 
