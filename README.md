@@ -195,8 +195,8 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
 [![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-%23000000?style=for-the-badge&logo=api&logoColor=white)](https://restfulapi.net/)
 [![OOP](https://img.shields.io/badge/-Object%20Oriented%20Programming-%231D4ED8?style=for-the-badge)]()
 [![Web Accessibility](https://img.shields.io/badge/-Web%20Accessibility-%230064BF?style=for-the-badge)]()
-[![Frontend](https://img.shields.io/badge/-Frontend-%23FF7F50?style=for-the-badge)]()
 
+[![Frontend](https://img.shields.io/badge/-Frontend-%23FF7F50?style=for-the-badge)]()
 [![Backend](https://img.shields.io/badge/-Backend-%2324A148?style=for-the-badge)]()
 [![Full-stack](https://img.shields.io/badge/-Full--Stack-%23000000?style=for-the-badge)]()
 
