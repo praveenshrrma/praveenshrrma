@@ -167,6 +167,11 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
 
 <div align="center">
 
+[![OAuth](https://img.shields.io/badge/-OAuth-%232C3E50?style=for-the-badge&logo=oauth&logoColor=white)](https://oauth.net/)
+[![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-%23000000?style=for-the-badge&logo=api&logoColor=white)](https://restfulapi.net/)
+[![OOP](https://img.shields.io/badge/-Object%20Oriented%20Programming-%231D4ED8?style=for-the-badge)]()
+[![Web Accessibility](https://img.shields.io/badge/-Web%20Accessibility-%230064BF?style=for-the-badge)]()
+
 [![HTML](https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -190,11 +195,6 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
 [![Django](https://img.shields.io/badge/-Django-%23092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![FastAPI](https://img.shields.io/badge/-FastAPI-%23009999?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![JWT](https://img.shields.io/badge/-JWT-%23000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)](https://jwt.io/)
-
-[![OAuth](https://img.shields.io/badge/-OAuth-%232C3E50?style=for-the-badge&logo=oauth&logoColor=white)](https://oauth.net/)
-[![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-%23000000?style=for-the-badge&logo=api&logoColor=white)](https://restfulapi.net/)
-[![OOP](https://img.shields.io/badge/-Object%20Oriented%20Programming-%231D4ED8?style=for-the-badge)]()
-[![Web Accessibility](https://img.shields.io/badge/-Web%20Accessibility-%230064BF?style=for-the-badge)]()
 
 [![Frontend](https://img.shields.io/badge/-Frontend-%23FF7F50?style=for-the-badge)]()
 [![Backend](https://img.shields.io/badge/-Backend-%2324A148?style=for-the-badge)]()
