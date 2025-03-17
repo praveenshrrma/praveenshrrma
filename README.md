@@ -166,7 +166,7 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
 <h1 align="center">Technologies</h1>
 
 
-<p align="center">
+<p>
 
 [![HTML](https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
