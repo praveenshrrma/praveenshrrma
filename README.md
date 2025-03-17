@@ -208,25 +208,17 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
 ---
 
 
-<h1 align="center">Connect</h1>
+## 📊 GitHub Stats
 
+<div align="center">
 
+![GitHub Streak](https://streak-stats.demolab.com?user=praveenshrrma&theme=radical&hide_border=true)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=praveenshrrma&theme=tokyo-night&hide_border=true)  
 
-<p align="center">
-  <a href="https://shawncharles.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
-  <a href="https://shawncharles.com/linkedin" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
-  </a>
-  <a href="https://shawncharles.com/twitter" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
-  <a href="https://shawncharles.com/angellist" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a>
-  <a href="https://shawncharles.com/resume" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
-</p>
+| 💻 GitHub Stats | 📈 Most Used Languages |
+|---|---|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveenshrrma&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenshrrma&layout=compact&theme=radical&hide_border=true) |
+
+</div>
+
 
