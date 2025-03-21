@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/praveenshrrma/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="doc/Resume_PraveenSharrma.pdf" target="_blank">
+  <a href="https://praveensharrma.netlify.app/Resume_PraveenSharrma.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-%23FF0000.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
   </a>
 </p>
