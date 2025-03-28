@@ -189,11 +189,15 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![C](https://img.shields.io/badge/-C-%2300599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 
 [![AWS](https://img.shields.io/badge/-AWS-%23232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Django](https://img.shields.io/badge/-Django-%23092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![FastAPI](https://img.shields.io/badge/-FastAPI-%23009999?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Flask](https://img.shields.io/badge/-Flask-%23000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-%23E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 [![JWT](https://img.shields.io/badge/-JWT-%23000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)](https://jwt.io/)
 
 [![Frontend](https://img.shields.io/badge/-Frontend-%23FF7F50?style=for-the-badge)]()
@@ -201,6 +205,7 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
 [![Full-stack](https://img.shields.io/badge/-Full--Stack-%23000000?style=for-the-badge)]()
 
 </div>
+
 
 
 
