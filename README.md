@@ -167,6 +167,22 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
 
 <div align="center">
 
+[![HTML](https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![C](https://img.shields.io/badge/-C-%2300599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+
+[![AWS](https://img.shields.io/badge/-AWS-%23232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Django](https://img.shields.io/badge/-Django-%23092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-%23009999?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Flask](https://img.shields.io/badge/-Flask-%23000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-%23E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
+[![JWT](https://img.shields.io/badge/-JWT-%23000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)](https://jwt.io/)
+
 [![OAuth](https://img.shields.io/badge/-OAuth-%232C3E50?style=for-the-badge&logo=oauth&logoColor=white)](https://oauth.net/)
 [![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-%23000000?style=for-the-badge&logo=api&logoColor=white)](https://restfulapi.net/)
 [![OOP](https://img.shields.io/badge/-Object%20Oriented%20Programming-%231D4ED8?style=for-the-badge)]()
@@ -183,22 +199,6 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
 [![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Redis](https://img.shields.io/badge/-Redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-
-[![HTML](https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![C](https://img.shields.io/badge/-C-%2300599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-
-[![AWS](https://img.shields.io/badge/-AWS-%23232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Django](https://img.shields.io/badge/-Django-%23092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![FastAPI](https://img.shields.io/badge/-FastAPI-%23009999?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Flask](https://img.shields.io/badge/-Flask-%23000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![GraphQL](https://img.shields.io/badge/-GraphQL-%23E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
-[![JWT](https://img.shields.io/badge/-JWT-%23000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)](https://jwt.io/)
 
 [![Frontend](https://img.shields.io/badge/-Frontend-%23FF7F50?style=for-the-badge)]()
 [![Backend](https://img.shields.io/badge/-Backend-%2324A148?style=for-the-badge)]()
