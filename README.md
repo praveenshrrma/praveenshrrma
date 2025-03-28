@@ -152,7 +152,7 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
         <br />
         <p align="center">
           
-  <a href="https://github.com/praveenshrrma/My-Portfolio" target="_blank">
+  <a href="https://github.com/praveenshrrma/My_Portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
