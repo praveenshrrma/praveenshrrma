@@ -28,7 +28,7 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
       <h3 align="center">Converso</h3>
         <br />
         <a target="_blank" href="https://converso-saas-three.vercel.app/">
-         <img src="images/second.gif" width="100%"/>
+         <img src="images/2.jpg" width="100%"/>
        
    </a>
         <br />
