@@ -35,7 +35,7 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
         <p align="center">
           
   <a href="https://converso-saas-three.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/badge/Visit%20Site-28a745?style=for-the-badge"/>
   </a>  
       </p>
         <p>Stitch & Sole Co. is a full-stack e-commerce web application using React, Node.js, and Stripe for payment processing, offering features such as secure user authentication, product management, cart functionality, and dynamic checkout.</p>
