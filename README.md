@@ -27,14 +27,14 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Converso</h3>
         <br />
-        <a target="_blank" href="https://converso-saas-three.vercel.app/">
+        <a target="_blank" href="https://github.com/praveenshrrma/Converso-Saas">
          <img src="images/2.jpg" width="100%"/>
        
    </a>
         <br />
         <p align="center">
           
-  <a href="https://converso-saas-three.vercel.app/" target="_blank">
+  <a href="https://github.com/praveenshrrma/Converso-Saas" target="_blank">
     <img src= "https://img.shields.io/badge/GitHub%20Repo-3162a5?style=for-the-badge&logo=github&logoColor=white"/>  
   </a>  
       </p>
