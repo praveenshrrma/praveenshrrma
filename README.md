@@ -27,14 +27,14 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Stitch & Sole Co.</h3>
         <br />
-        <a target="_blank" href="https://github.com/praveenshrrma/Stitch-Sole-Co.-Ecommerce-Store">
+        <a target="_blank" href="converso-saas-three.vercel.app">
          <img src="images/second.gif" width="100%"/>
        
    </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/praveenshrrma/Stitch-Sole-Co.-Ecommerce-Store" target="_blank">
+  <a href="converso-saas-three.vercel.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
       </p>
