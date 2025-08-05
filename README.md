@@ -35,7 +35,7 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
         <p align="center">
           
   <a href="https://converso-saas-three.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20Site-28a745?style=for-the-badge"/> Make sure to log in
+    <img src="https://img.shields.io/badge/Visit%20Site-28a745?style=for-the-badge"/>  <h1>Make sure to log in</h1>
   </a>  
       </p>
         <p>Converso – A Full-Stack AI-Powered SaaS LMS platform built with Next.js, Supabase, Stripe, and Clerk. Features include subscription billing, AI voice tutors, and real-time learning sessions.</p>
