@@ -25,7 +25,7 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Stitch & Sole Co.</h3>
+      <h3 align="center">Converso</h3>
         <br />
         <a target="_blank" href="https://converso-saas-three.vercel.app/">
          <img src="images/second.gif" width="100%"/>
@@ -38,7 +38,7 @@ Visit [my website](https://praveensharrma.netlify.app/) for more information!
     <img src="https://img.shields.io/badge/Visit%20Site-28a745?style=for-the-badge"/>
   </a>  
       </p>
-        <p>Stitch & Sole Co. is a full-stack e-commerce web application using React, Node.js, and Stripe for payment processing, offering features such as secure user authentication, product management, cart functionality, and dynamic checkout.</p>
+        <p>Converso – A Full-Stack AI-Powered SaaS LMS platform built with Next.js, Supabase, Stripe, and Clerk. Features include subscription billing, AI voice tutors, and real-time learning sessions.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">SahandEstate Real Estate</h3>
